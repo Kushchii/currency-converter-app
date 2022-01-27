@@ -2,11 +2,11 @@
 
 # How to build and run
 
-project can be compiled with JDK 8 and above 
+the project can be compiled with JDK 8 and above 
 
 To compile just do `mvn clean package`.
 
-To launch the datebase, you should do "docker-compose up" in "docker" package
+To launch the database, you should do "docker-compose up" in the "docker" package
 
 
 ## Exploring the Rest APIs
@@ -21,9 +21,9 @@ The application contains the following REST APIs
 
 ## Aditional information
 
-Base currency always EUR. So you can get currency rates only in pair with EUR.
+The base currency is always EUR. So you can get currency rates only in pairs with EUR.
 
-**Avalieble currency for convert to:**
+**Available currency for convertation:**
 
 RUB, UAH, USD, INR
 
